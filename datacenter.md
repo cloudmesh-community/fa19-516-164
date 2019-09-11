@@ -12,6 +12,10 @@ The data center itself occupies a space of 7.2 million square feet and runs on a
 
 3)https://www.switch.com/sustainability/ 
 
+## E.Datacenter.3 : Carbon Footprint
+
+My carbon footprint is 15625 lbs of CO2 
+
 ## E.Datacenter.4 : Recyclers
 
 Generally, the heat generated from data centers range between 80 and 115 degrees Fahrenheit. This heat which is wasted should be recycled in order to conserve energy. There are a few ways in which this can be done. Heat generated from data centers can be diverted to nearby homes and businesses, thereby utilizing the waste as a source of energy and providing heat during colder temperatures.
