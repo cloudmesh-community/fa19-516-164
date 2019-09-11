@@ -1,3 +1,5 @@
+# Datacenter fa19-516-164
+
 ## E.Datacenter.2.b : Tahoe Reno 1
 
 Tahoe Reno 1 is the first datacenter owned by the company Switch in Reno, Nevada. This datacenter is located in the Tahoe Reno Industrial Center in a 2,000 acre campus known as the Citadel Campus. This data center was built in the year 2017. Since January 1, 2016, Switch decided to run its data centers on 100% renewable energy. This practise was even implemented with the Tahoe Reno 1.
@@ -33,4 +35,7 @@ Data Center Rack Cooling is done using a Rear-door Heat Exchanger. A Rear-door H
 
 ## E.Datacenter.8 : 
 
+Google suffered a catastrophic cloud outage on June 2, 2019. This outage was caused due to a change in the configuration that was intended for a small group of servers of a particular region but ended up being applied to a large number of servers in that region and the neighboring regions. This cloud outage disrupted google services for about four and a half hours. Applications like Youtube, Gmail, Snapchat and Vimeo were affected due to the networking issues caused by this outage. Even the “Google Cloud Platform Services” such as App Engine, Bigquery, etc. were affected by this incident.
 
+### References:
+1)https://www.zdnet.com/article/google-details-catastrophic-cloud-outage-events-promises-to-do-better-next-time/ 
