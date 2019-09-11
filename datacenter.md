@@ -1,5 +1,10 @@
 # Datacenter fa19-516-164
 
+<<<<<<< HEAD
+=======
+:o2: fix urls
+
+>>>>>>> 21f8c659c48c68e883617a36a910f28fabe44aed
 ## E.Datacenter.2.b : Tahoe Reno 1
 
 Tahoe Reno 1 is the first datacenter owned by the company Switch in Reno, Nevada. This datacenter is located in the Tahoe Reno Industrial Center in a 2,000 acre campus known as the Citadel Campus. This data center was built in the year 2017. Since January 1, 2016, Switch decided to run its data centers on 100% renewable energy. This practise was even implemented with the Tahoe Reno 1.
@@ -7,7 +12,9 @@ The data center itself occupies a space of 7.2 million square feet and runs on a
 
 ### References:
 1)https://baxtel.com/data-center/switch-reno-campus-the-citadel/news/city-of-reno-s-data-servers-will-be-moved-to-switch-campus-next-year
+
 2)https://www.switch.com/switch-tahoe-reno-data-center-now-open/
+
 3)https://www.switch.com/sustainability/ 
 
 ## E.Datacenter.4 : Recyclers
