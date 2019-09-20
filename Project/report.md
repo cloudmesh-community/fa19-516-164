@@ -1,7 +1,7 @@
 
-##Names : 
-##1) Anish Mirjankar
-##2) Siddhesh Mirjankar
+## Names : 
+## 1) Anish Mirjankar
+## 2) Siddhesh Mirjankar
 
 ## Problem
 
