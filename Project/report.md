@@ -1,7 +1,7 @@
-# TITLE MISSING
+# TITLE MISSING :o2:
 
-* Anish Mirjankar
-* Siddhesh Mirjankar
+* Anish Mirjankar :o2:
+* Siddhesh Mirjankar :o2:
 
 ## Problem
 
