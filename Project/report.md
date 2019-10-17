@@ -1,7 +1,7 @@
+# TITLE MISSING
 
-## Names : 
-1) Anish Mirjankar
-2) Siddhesh Mirjankar
+* Anish Mirjankar
+* Siddhesh Mirjankar
 
 ## Problem
 
